@@ -19,9 +19,7 @@
 
  <div class="container" style="margin-top:80px;">
     <div class="panel panel-default">
-        <div class="panel-heading">
-            <a style="color:green;" href="http://www.onlinestudys.com/how-to-integrate-paytm-payment-gateway-in-php-with-demo-download/" target="_blank"><h2>How To Integrate Paytm Payment Gateway Using PHP With Demo & Download</h2></a> 
-        </div>
+     
        
         <div class="panel-body"> 
         <form method="post" action="pgRedirect.php">
@@ -76,8 +74,7 @@
         </form>
         </div>
 
-      <div class="panel-footer"><a href="http://www.onlinestudys.com/" target="_blank">All Right Reserved Onlinestudys</a> 
-      </div>
+     
 
     </div>
   </div>
